@@ -2,7 +2,7 @@ from Rectangle import Rectangle
 
 l1 = int(input())
 l2 = int(input())
-w2 = int(input())
+w1 = int(input())
 w2 = int(input())
 
 r1 = Rectangle(l1, w1)
