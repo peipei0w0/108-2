@@ -10,3 +10,8 @@ r2 = Rectangle(l2, w2)
 
 print(r1.getArea(), " ", r1.getPerimeter())
 print(r2.getArea(), " ", r2.getPerimeter())
+
+r2.setLength(50)
+r2.setWidth(25)
+
+print(r2.getArea(), " ", r2.getPerimeter())
